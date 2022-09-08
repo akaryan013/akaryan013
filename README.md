@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kumar Aryan</h1>
-<h3 align="center">I am final year Student and proficient in c++ and data structures and Alogorithms</h3>
+<h3 align="center">I am final year Student. I am Back-end Developer and have keen interest on Problem Solving</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
